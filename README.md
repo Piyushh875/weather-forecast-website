@@ -1,0 +1,1 @@
+an e-commerce website is a online platform for browsing and purchasing products or services, featuring product listings, a shopping cart, user accounts, a secure payment processing. it aims to provide aseamless and intutive shopping exeperiance for customer. 
